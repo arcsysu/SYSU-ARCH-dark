@@ -37,7 +37,7 @@ You need to observe how `LRU` is implemented in gem5. To be more precise, refer 
 
 Run your `sieve` program in gem5 using NMRU or LRU and see what is the difference in the output.
 
-These two article can help you understand how the usage of cache objects in gem5:
+These two articles can help you understand how the usage of cache objects in gem5:
 
 - https://www.gem5.org/documentation/general_docs/memory_system/
 - https://www.gem5.org/documentation/learning_gem5/part1/cache_config/
